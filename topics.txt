@@ -1,0 +1,4 @@
+drag-n-drop API
+localStroage
+contenteditable - HTML свойство, позволяющее пользователю вносить информацию в элемент, без использования формы
+focusin, focusout - события
